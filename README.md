@@ -1,4 +1,4 @@
-# eChat
+# eChat - A Chat Web Application
 
 <h5>How To Use The App</h5>
 <p>git clone https://github.com/MisraSwarup45/eChat.git</p>
