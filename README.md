@@ -1,6 +1,7 @@
 # eChat - A Chat Web Application
 
 <h5>How To Use The App</h5>
+<h5>Project Setup</h5>
 <p>git clone https://github.com/MisraSwarup45/eChat.git</p>
 <p>cd eChat</p>
 <p>npm install</p>
